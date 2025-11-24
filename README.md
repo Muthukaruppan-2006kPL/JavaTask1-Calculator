@@ -51,5 +51,3 @@ Java Programming Internship – Kodbud
 🙏 Acknowledgment
 
 Special thanks to Kodbud for providing this learning opportunity.
-javac Calculator.java
-
