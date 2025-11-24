@@ -14,8 +14,8 @@ The task is to build a **Command Line Calculator** that performs basic arithmeti
   - ✖️ Multiplication  
   - ➗ Division  
 - Uses `switch-case` for operation handling  
-- Handles errors like division by zero  
-- Clean console-based interface  
+- Handles division-by-zero errors  
+- Clean and beginner-friendly console interface  
 
 ---
 
@@ -27,32 +27,29 @@ The task is to build a **Command Line Calculator** that performs basic arithmeti
 
 ## ▶️ How to Run the Program
 
-### **2️⃣ Run the program**
+### **1️⃣ Compile the Java file**
+```bash
+javac Calculator.java
+java Calculator
+=== SIMPLE CALCULATOR ===
+Enter the first number: 12
+Enter the second number: 6
+Enter operation (+, -, *, /): /
+Result = 2.0
 
----
+🛠 Technologies Used
 
-## 🧾 Sample Output
+Java (JDK 17)
 
+VS Code (Java Extension Pack)
 
----
+👤 Author
 
-## 🛠 Technologies Used
-
-- Java (JDK 17)
-- VS Code (Java Extension Pack)
-
----
-
-## 👤 Author
-
-**Muthukaruppan P L**  
+Muthukaruppan P L
 Java Programming Internship – Kodbud
 
----
+🙏 Acknowledgment
 
-## 🙏 Acknowledgment
-
-Special thanks to **Kodbud** for providing this learning opportunity.
-
-### **1️⃣ Compile the Java file**
+Special thanks to Kodbud for providing this learning opportunity.
+javac Calculator.java
 
